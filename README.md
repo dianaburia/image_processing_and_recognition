@@ -1,2 +1,2 @@
-# University laboratory work on the subject of image processing and recognition 
+# University project on image processing and recognition 
 Three laboratory works
